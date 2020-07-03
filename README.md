@@ -1,1 +1,1 @@
-# WednesdayTest code for react-native.
+# Wednesday's test code for react-native.
